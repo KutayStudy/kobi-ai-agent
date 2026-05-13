@@ -1,3 +1,5 @@
+English version: [README_EN.md](./README_EN.md)
+
 # KobiOS
 
 Yapay zeka destekli KOBİ operasyon yönetim platformu.
